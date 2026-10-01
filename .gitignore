@@ -87,5 +87,7 @@ venv.bak/
 Thumbs.db
 
 CREDENTIALS.md
-
 ems_feature_overview.md
+server_log*.txt
+server_output*.txt
+*.log
