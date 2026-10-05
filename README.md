@@ -131,7 +131,6 @@ Employee-Management-System/
 ├── .env.example                  # Root combined environment template
 ├── .gitignore                    # Git ignore specifications
 ├── CONTRIBUTING.md               # Contribution workflow & commit conventions
-├── LEARNING_GUIDE.md             # Codebase architecture & vertical slice guide
 ├── LICENSE                       # MIT License
 └── README.md                     # Project documentation
 ```
